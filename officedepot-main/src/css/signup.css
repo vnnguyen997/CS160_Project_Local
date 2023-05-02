@@ -1,0 +1,32 @@
+.signup-container {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 22px;
+  border: 50px solid #13755ece;
+  border-radius: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  border-width: 20px;
+}
+
+.signup-container label {
+  font-weight: bold;
+}
+
+.signup-container p {
+  text-align: center;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.pad-here {
+  padding-bottom: 10px;
+  padding-top: 20px;
+}
+
+.signup-pad {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
